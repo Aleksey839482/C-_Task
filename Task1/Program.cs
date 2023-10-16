@@ -13,6 +13,6 @@ string strNumber = Console.ReadLine();    // "123" + "123" = "123123"     // 123
 int number = Convert.ToInt32(strNumber);          //Console.ReadLine();
 number = number * number; // number = 5 * 5
 Console.WriteLine(number);
-Console.WriteLine("Квадрат от введенного Вами числа " + strNumber + "будет " + number);
+Console.WriteLine("Квадрат от введенного Вами числа " + strNumber + " будет " + number);
 Console.WriteLine($"Квадрат от введенного Вами числа {strNumber} будет {number}");
 Console.WriteLine("Квадрат от введенного Вами числа {0} будет {1}", strNumber, number);
