@@ -4,16 +4,20 @@
 // a = 9, b = -3 -> да
 // a = -3 b = 9 -> нет
 
-Console.WriteLine("Введите Number1: ");
-string strNumber1 = Console.ReadLine();
-int number1 = Convert.ToInt32(strNumber1);
-Console.WriteLine("Введите Number2: ");
-string strNumber2 = Console.ReadLine();
-int number2 = Convert.ToInt32(strNumber2);
-if (number1 == number2 * number2)
-    {Console.WriteLine("Да");}
-else
-    {Console.WriteLine("Нет");}
+// Console.WriteLine("Введите Number1: ");
+// string strNumber1 = Console.ReadLine();
+// int number1 = Convert.ToInt32(strNumber1);
+// Console.WriteLine("Введите Number2: ");
+// string strNumber2 = Console.ReadLine();
+// int number2 = Convert.ToInt32(strNumber2);
+// if (number1 == number2 * number2)
+// {
+//     Console.WriteLine("Да");
+// }
+// else
+// {
+//     Console.WriteLine("Нет");
+// }
 
 
 // Задача №3. Напишите программу, которая будет выдавать название дня недели по заданному номеру.

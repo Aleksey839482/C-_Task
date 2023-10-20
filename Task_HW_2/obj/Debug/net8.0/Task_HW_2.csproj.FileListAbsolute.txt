@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\bin\Debug\net8.0\Task_HW_2.exe
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\bin\Debug\net8.0\Task_HW_2.deps.json
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\bin\Debug\net8.0\Task_HW_2.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\bin\Debug\net8.0\Task_HW_2.dll
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\bin\Debug\net8.0\Task_HW_2.pdb
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\obj\Debug\net8.0\Task_HW_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\obj\Debug\net8.0\Task_HW_2.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\obj\Debug\net8.0\Task_HW_2.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\obj\Debug\net8.0\Task_HW_2.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\obj\Debug\net8.0\Task_HW_2.dll
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\obj\Debug\net8.0\refint\Task_HW_2.dll
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\obj\Debug\net8.0\Task_HW_2.pdb
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\obj\Debug\net8.0\Task_HW_2.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Документы\VS Code\C#\Task_HW_2\obj\Debug\net8.0\ref\Task_HW_2.dll
