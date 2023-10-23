@@ -10,7 +10,6 @@
 // }
 // Console.WriteLine();
 
-
 // for(int i = 0; i < len_arr; i++)
 // {
 //     arrey[i] = -arrey[i];
