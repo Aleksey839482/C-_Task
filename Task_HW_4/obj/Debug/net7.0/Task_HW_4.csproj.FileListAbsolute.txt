@@ -1,0 +1,15 @@
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\bin\Debug\net7.0\Task_HW_4.exe
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\bin\Debug\net7.0\Task_HW_4.deps.json
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\bin\Debug\net7.0\Task_HW_4.runtimeconfig.json
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\bin\Debug\net7.0\Task_HW_4.dll
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\bin\Debug\net7.0\Task_HW_4.pdb
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\Task_HW_4.csproj.AssemblyReference.cache
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\Task_HW_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\Task_HW_4.AssemblyInfoInputs.cache
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\Task_HW_4.AssemblyInfo.cs
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\Task_HW_4.csproj.CoreCompileInputs.cache
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\Task_HW_4.dll
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\refint\Task_HW_4.dll
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\Task_HW_4.pdb
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\Task_HW_4.genruntimeconfig.cache
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task_HW_4\obj\Debug\net7.0\ref\Task_HW_4.dll
