@@ -34,16 +34,20 @@ void PrintArray(int[,] array)
 void Sum(int[,] array)
 {
     int result = 0;
-    for (int i = 0; i < array.GetLength(0); i++)        //8
+    for (int i = 0, j = 0; i < array.GetLength(0) && j < array.GetLength(1); j++, i++)
     {
-        for (int j = 0; j < array.GetLength(1); j++)    //6  
-        {
-            if (i == j)
-            {
-                result = result + array[i, j];
-            }
-        }
+        result = result + array[i, j];
     }
+    // for (int i = 0; i < array.GetLength(0); i++)        //8
+    // {
+    //     for (int j = 0; j < array.GetLength(1); j++)    //6  
+    //     {
+    //         if (i == j)
+    //         {
+    //             result = result + array[i, j];
+    //         }
+    //     }
+    // }
     Console.Write("Сумма элементов главной диагонали: " + result);
 }
 
