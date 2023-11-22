@@ -4,7 +4,7 @@
 int[] GenerateArray()
 {
     string[] str;
-    Console.WriteLine("Введите ти числа через , ");
+    Console.WriteLine("Введите три числа через , ");
     str = Console.ReadLine().Split(",");
     int[] array = new int[str.Length];
 
