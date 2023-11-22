@@ -1,0 +1,15 @@
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\bin\Debug\net7.0\Task15.exe
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\bin\Debug\net7.0\Task15.deps.json
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\bin\Debug\net7.0\Task15.runtimeconfig.json
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\bin\Debug\net7.0\Task15.dll
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\bin\Debug\net7.0\Task15.pdb
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\Task15.csproj.AssemblyReference.cache
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\Task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\Task15.AssemblyInfoInputs.cache
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\Task15.AssemblyInfo.cs
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\Task15.csproj.CoreCompileInputs.cache
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\Task15.dll
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\refint\Task15.dll
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\Task15.pdb
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\Task15.genruntimeconfig.cache
+D:\Andrey\Documents\VSCode\C#\C-_Task\Task15\obj\Debug\net7.0\ref\Task15.dll
